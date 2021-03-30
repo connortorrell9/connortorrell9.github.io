@@ -362,6 +362,11 @@ h2 ~ p {
   list-style: none;
   padding: 0;
 }
+.blog-title-list img{
+  display: inline-block;
+  border-radius: 99px;
+  height: 2em;
+}
 .blog-title-list li ~ li {
   margin-top: 1.5em;
 }
