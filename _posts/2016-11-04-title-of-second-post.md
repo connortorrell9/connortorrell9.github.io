@@ -4,7 +4,7 @@ title: Post Number 2
 postHero: /images/large/slide1.jpg
 author: Connor Torrell
 authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: https://pbs.twimg.com/profile_images/1239559640758784001/RWKsgAvr.jpg
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
